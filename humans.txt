@@ -7,7 +7,7 @@
 
 # THANKS
 
-    <name>
+    Thanks to all of the GitHub students
 
 # TECHNOLOGY COLOPHON
 
