@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    Timothy Foley   tim@activatecare.com. @timtatefoley
 
 # THANKS
 
