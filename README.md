@@ -3,6 +3,8 @@ This repository is for showing how Git and GitHub work.
 
 This is a simple website project for showing how to use Git and Github together.
 
+Adding this text for a rebasing example.
+
 ## Introduction
 This is an example to show different parts of the Git repository and various commands using a web project.
 
